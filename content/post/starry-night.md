@@ -2,7 +2,6 @@
 title = "Announcing Pathfinder"
 date = 2018-05-11T16:26:00-05:00
 description = "Advance innovation process."
-draft = true
 toc = false
 categories = ["technology"]
 tags = ["explore"]
