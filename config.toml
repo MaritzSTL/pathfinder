@@ -21,6 +21,3 @@ footnoteReturnLinkContents = "↩" # Provides a nicer footnote return link
     "https://source.unsplash.com/category/technology/2000x1322"
   ] # Suggested, controls default Open Graph images
   theme_variant = "" # Optional, for use to overriding default theme
-
-[context.deploy-preview.environment]
-  HUGO_VERSION = "0.40.2"
